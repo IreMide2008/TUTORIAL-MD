@@ -1,7 +1,7 @@
 {
   "name": "tutorial-md",
-  "version": "1.0.0",
-  "description": "Simple WhatsApp Bot by Minato",
+  "version": "1.5.0",
+  "description": "Advanced WhatsApp Bot by Minato Namikaze",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,12 +12,14 @@
     "@whiskeysockets/baileys": "latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "pino": "^8.14.1",
-    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0",
     "fs-extra": "^11.1.1",
     "fluent-ffmpeg": "^2.1.2",
+    "whois-json": "^2.0.4",
+    "qrcode-terminal": "^0.12.0",
     "path": "^0.12.7"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
   }
 }
