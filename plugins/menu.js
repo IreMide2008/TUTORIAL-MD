@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
     name: 'menu',
     async execute(m, sock, { config }) {
-        const imagePath = path.join(__dirname, '../assets/bot_image.png');
+        const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
         
         // Time and Date logic
         const date = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
@@ -63,7 +63,7 @@ module.exports = {
 - .wiki <query>
 - .dl <link>
 
-_Powered by Baileys & Minato_`;
+_Powered by Minato_`;
 
         if (fs.existsSync(imagePath)) {
             await sock.sendMessage(m.key.remoteJid, { 
