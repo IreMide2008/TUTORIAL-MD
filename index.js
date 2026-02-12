@@ -1,1 +1,180 @@
-cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCBmcyA9IHJlcXVpcmUoImZzLWV4dHJhIik7DQpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOw0KY29uc3QgcGlubyA9IHJlcXVpcmUoInBpbm8iKTsNCmNvbnN0IGNoYWxrID0gcmVxdWlyZSgiY2hhbGsiKTsNCmNvbnN0IFRlbGVncmFtQm90ID0gcmVxdWlyZSgibm9kZS10ZWxlZ3JhbS1ib3QtYXBpIik7DQpjb25zdCBleHByZXNzID0gcmVxdWlyZSgiZXhwcmVzcyIpOw0KDQovLyBJbXBvcnQgeW91ciBuZXcgbW9kdWxlcw0KY29uc3QgeyBURUxFR1JBTV9UT0tFTiB9ID0gcmVxdWlyZSgiLi90b2tlbiIpOw0KY29uc3QgeyBpbmNyZW1lbnRSZXNldCwgcmVzZXREYXRhIH0gPSByZXF1aXJlKCIuL3Jlc2V0TWFuYWdlciIpOw0KDQpjb25zdCB7DQogICAgZGVmYXVsdDogbWFrZVdBU29ja2V0LA0KICAgIHVzZU11bHRpRmlsZUF1dGhTdGF0ZSwNCiAgICBmZXRjaExhdGVzdEJhaWxleXNWZXJzaW9uLA0KICAgIEJyb3dzZXJzLA0KICAgIERpc2Nvbm5lY3RSZWFzb24sDQogICAgbWFrZUNhY2hlYWJsZVNpZ25hbEtleVN0b3JlDQp9ID0gcmVxdWlyZSgiQHdoaXNrZXlzb2NrZXRzL2JhaWxleXMiKTsNCg0KY29uc3QgYXBwID0gZXhwcmVzcygpOw0KY29uc3QgUE9SVCA9IHByb2Nlc3MuZW52LlBPUlQgfHwgMzAwMDsNCg0KYXBwLmdldCgnLycsIChyZXEsIHJlcykgPT4gcmVzLnNlbmQoJ1RVVE9SSUFMLU1EIGlzIE9ubGluZSEg8J+agCcpKTsNCmFwcC5saXN0ZW4oUE9SVCwgKCkgPT4gY29uc29sZS5sb2coY2hhbGsuZ3JlZW4oYPCfjI0gU2VydmVyIGFjdGl2ZSBvbiBwb3J0ICR7UE9SVH1gKSkpOw0KDQpjb25zdCBib3QgPSBuZXcgVGVsZWdyYW1Cb3QoVEVMRUdSQU1fVE9LRU4sIHsgcG9sbGluZzogdHJ1ZSB9KTsNCg0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KLy8gICAgICAgIFRFTEVHUkFNIElOVEVSRkFDRQ0KLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KYm90Lm9uVGV4dCgvXC9zdGFydC8sIChtc2cpID0+IHsNCiAgICBib3Quc2VuZE1lc3NhZ2UobXNnLmNoYXQuaWQsIGDwn5qAICpUVVRPUklBTOKAk01EKiDwn5qAXG5cbuKcqCAvcGFpciA8bnVtYmVyPlxu4pyoIC91cHRpbWVcblxuVG90YWwgU3lzdGVtIFJlc2V0czogJHtyZXNldERhdGEuY291bnR9YCwgeyBwYXJzZV9tb2RlOiAiTWFya2Rvd24iIH0pOw0KfSk7DQoNCmJvdC5vblRleHQoL1wvcGFpciAoLispLywgYXN5bmMgKG1zZywgbWF0Y2gpID0+IHsNCiAgICBsZXQgcGhvbmVOdW1iZXIgPSBtYXRjaFsxXS5yZXBsYWNlKC9cRC9nLCAiIik7DQogICAgYm90LnNlbmRNZXNzYWdlKG1zZy5jaGF0LmlkLCBg4o+zIEdlbmVyYXRpbmcgY29kZSBmb3IgKyR7cGhvbmVOdW1iZXJ9Li4uYCk7DQogICAgc3RhcnRXaGF0c0FwcEJvdChwaG9uZU51bWJlciwgbXNnLmNoYXQuaWQpOw0KfSk7DQoNCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0NCi8vICAgICBXSEFUU0FQUCBDT1JFIExPR0lDDQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQphc3luYyBmdW5jdGlvbiBzdGFydFdoYXRzQXBwQm90KHBob25lTnVtYmVyLCB0ZWxlZ3JhbUNoYXRJZCA9IG51bGwpIHsNCiAgICBjb25zdCBzZXNzaW9uRGlyID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJ3Nlc3Npb25zJywgYHNlc3Npb25fJHtwaG9uZU51bWJlcn1gKTsNCiAgICBhd2FpdCBmcy5lbnN1cmVEaXIoc2Vzc2lvbkRpcik7DQoNCiAgICBjb25zdCB7IHZlcnNpb24gfSA9IGF3YWl0IGZldGNoTGF0ZXN0QmFpbGV5c1ZlcnNpb24oKTsNCiAgICBjb25zdCB7IHN0YXRlLCBzYXZlQ3JlZHMgfSA9IGF3YWl0IHVzZU11bHRpRmlsZUF1dGhTdGF0ZShzZXNzaW9uRGlyKTsNCg0KICAgIGNvbnN0IHNvY2sgPSBtYWtlV0FTb2NrZXQoew0KICAgICAgICB2ZXJzaW9uLA0KICAgICAgICBsb2dnZXI6IHBpbm8oeyBsZXZlbDogInNpbGVudCIgfSksDQogICAgICAgIGJyb3dzZXI6IEJyb3dzZXJzLnVidW50dSgiQ2hyb21lIiksDQogICAgICAgIGF1dGg6IHsNCiAgICAgICAgICAgIGNyZWRzOiBzdGF0ZS5jcmVkcywNCiAgICAgICAgICAgIGtleXM6IG1ha2VDYWNoZWFibGVTaWduYWxLZXlTdG9yZShzdGF0ZS5rZXlzLCBwaW5vKHsgbGV2ZWw6ICJzaWxlbnQiIH0pKQ0KICAgICAgICB9DQogICAgfSk7DQoNCiAgICBzb2NrLmV2Lm9uKCJjcmVkcy51cGRhdGUiLCBzYXZlQ3JlZHMpOw0KDQogICAgaWYgKCFzdGF0ZS5jcmVkcz8ucmVnaXN0ZXJlZCAmJiB0ZWxlZ3JhbUNoYXRJZCkgew0KICAgICAgICBzZXRUaW1lb3V0KGFzeW5jICgpID0+IHsNCiAgICAgICAgICAgIHRyeSB7DQogICAgICAgICAgICAgICAgbGV0IGNvZGUgPSBhd2FpdCBzb2NrLnJlcXVlc3RQYWlyaW5nQ29kZShwaG9uZU51bWJlcik7DQogICAgICAgICAgICAgICAgY29kZSA9IGNvZGU/Lm1hdGNoKC8uezEsNH0vZyk/LmpvaW4oIi0iKSB8fCBjb2RlOw0KICAgICAgICAgICAgICAgIGJvdC5zZW5kTWVzc2FnZSh0ZWxlZ3JhbUNoYXRJZCwgYOKchSAqQ09ERToqIFxgJHtjb2RlfVxgYCwgeyBwYXJzZV9tb2RlOiAiTWFya2Rvd24iIH0pOw0KICAgICAgICAgICAgfSBjYXRjaCAoZSkgew0KICAgICAgICAgICAgICAgIGJvdC5zZW5kTWVzc2FnZSh0ZWxlZ3JhbUNoYXRJZCwgIuKdjCBSZXF1ZXN0IGZhaWxlZC4iKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfSwgMzAwMCk7DQogICAgfQ0KDQogICAgc29jay5ldi5vbigiY29ubmVjdGlvbi51cGRhdGUiLCAodXBkYXRlKSA9PiB7DQogICAgICAgIGNvbnN0IHsgY29ubmVjdGlvbiwgbGFzdERpc2Nvbm5lY3QgfSA9IHVwZGF0ZTsNCiAgICAgICAgaWYgKGNvbm5lY3Rpb24gPT09ICJvcGVuIikgew0KICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbGsuZ3JlZW4oYOKchSBDb25uZWN0ZWQ6ICR7cGhvbmVOdW1iZXJ9YCkpOw0KICAgICAgICAgICAgaWYgKHRlbGVncmFtQ2hhdElkKSBib3Quc2VuZE1lc3NhZ2UodGVsZWdyYW1DaGF0SWQsIGDwn46JIENvbm5lY3RlZCFgKTsNCiAgICAgICAgfQ0KICAgICAgICBpZiAoY29ubmVjdGlvbiA9PT0gImNsb3NlIikgew0KICAgICAgICAgICAgY29uc3QgcmVhc29uID0gbGFzdERpc2Nvbm5lY3Q/LmVycm9yPy5vdXRwdXQ/LnN0YXR1c0NvZGU7DQogICAgICAgICAgICBpZiAocmVhc29uICE9PSBEaXNjb25uZWN0UmVhc29uLmxvZ2dlZE91dCkgew0KICAgICAgICAgICAgICAgIGluY3JlbWVudFJlc2V0KCJhdXRvLXJlY29ubmVjdCIpOw0KICAgICAgICAgICAgICAgIHN0YXJ0V2hhdHNBcHBCb3QocGhvbmVOdW1iZXIsIHRlbGVncmFtQ2hhdElkKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgIH0pOw0KDQogICAgc29jay5ldi5vbigibWVzc2FnZXMudXBzZXJ0IiwgYXN5bmMgKHsgbWVzc2FnZXMsIHR5cGUgfSkgPT4gew0KICAgICAgICBpZiAodHlwZSAhPT0gIm5vdGlmeSIpIHJldHVybjsNCiAgICAgICAgdHJ5IHsNCiAgICAgICAgICAgIGNvbnN0IGhhbmRsZXIgPSByZXF1aXJlKCIuL21haW4iKTsNCiAgICAgICAgICAgIGF3YWl0IGhhbmRsZXIoc29jaywgbWVzc2FnZXNbMF0pOw0KICAgICAgICB9IGNhdGNoIChlKSB7fQ0KICAgIH0pOw0KfQ0KDQpjb25zb2xlLmxvZyhjaGFsay5jeWFuLmJvbGQoIvCfmoAgVFVUT1JJQUwtTUQgU3lzdGVtIEluaXRpYWxpemVkLi4uIikpOw==
+require("dotenv").config();
+const fs = require("fs-extra");
+const path = require("path");
+const pino = require("pino");
+const chalk = require("chalk");
+const TelegramBot = require("node-telegram-bot-api");
+const express = require("express");
+const cors = require("cors");
+const moment = require("moment-timezone");
+
+// Modules
+const { TELEGRAM_TOKEN } = require("./token");
+const { incrementReset, resetData } = require("./resetManager");
+const handler = require("./bot"); 
+
+const {
+    default: makeWASocket,
+    useMultiFileAuthState,
+    fetchLatestBaileysVersion,
+    Browsers,
+    DisconnectReason,
+    makeCacheableSignalKeyStore,
+    delay
+} = require("@whiskeysockets/baileys");
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+const PORT = process.env.PORT || 3000;
+const sessionsDir = path.join(__dirname, 'sessions');
+fs.ensureDirSync(sessionsDir);
+
+// Global Stats & Console Logs for UI
+let stats = { bots: 0, users: 0, uptime: "0%" };
+let consoleLogs = []; // Stores logs for the "Server Logs" UI
+const activeBots = new Map();
+const startTime = Date.now();
+
+// Utility for UI logging
+const uiLog = (msg) => {
+    const log = `[${moment().format("HH:mm:ss")}] ${msg}`;
+    consoleLogs.push(log);
+    if (consoleLogs.length > 50) consoleLogs.shift(); // Keep last 50
+    console.log(chalk.blue(log));
+};
+
+// ===============================
+//        WEB & API ROUTES
+// ===============================
+
+// Update stats for the Dashboard UI
+app.get('/stats', (req, res) => {
+    const diff = Date.now() - startTime;
+    const hours = Math.floor(diff / 3600000);
+    const mins = Math.floor((diff % 3600000) / 60000);
+    
+    res.json({
+        bots: activeBots.size,
+        users: stats.users,
+        uptime: `${hours}h ${mins}m`,
+        serverStatus: "Online",
+        resets: resetData.count
+    });
+});
+
+// Fetch Logs for the "Server Logs" UI button
+app.get('/logs', (req, res) => res.json(consoleLogs));
+
+// Pairing API for the Dashboard "Generate" button
+app.get('/pairing', async (req, res) => {
+    let num = req.query.number?.replace(/\D/g, "");
+    if (!num) return res.status(400).json({ message: "Number required" });
+
+    uiLog(`Pairing request for +${num}`);
+    try {
+        const code = await startWhatsAppBot(num, null, true);
+        res.json({ code });
+    } catch (err) {
+        res.status(500).json({ message: "Failed to generate code." });
+    }
+});
+
+app.listen(PORT, () => uiLog(`Server active on port ${PORT}`));
+
+// ===============================
+//        TELEGRAM INTERFACE
+// ===============================
+const bot = new TelegramBot(TELEGRAM_TOKEN, { polling: true });
+
+bot.onText(/\/start/, (msg) => {
+    bot.sendMessage(msg.chat.id, `🚀 *TUTORIAL–MD CONTROL*\n\nPairing via Panel or /pair <number>`, { parse_mode: "Markdown" });
+});
+
+bot.onText(/\/pair (.+)/, async (msg, match) => {
+    let phoneNumber = match[1].replace(/\D/g, "");
+    bot.sendMessage(msg.chat.id, `⏳ Generating code for +${phoneNumber}...`);
+    await startWhatsAppBot(phoneNumber, msg.chat.id);
+});
+
+// ===============================
+//     WHATSAPP CORE LOGIC
+// ===============================
+async function startWhatsAppBot(phoneNumber, telegramChatId = null, isWebRequest = false) {
+    const sessionDir = path.join(sessionsDir, `session_${phoneNumber}`);
+    await fs.ensureDir(sessionDir);
+
+    const { version } = await fetchLatestBaileysVersion();
+    const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
+
+    const sock = makeWASocket({
+        version,
+        logger: pino({ level: "silent" }),
+        browser: Browsers.ubuntu("Chrome"),
+        auth: {
+            creds: state.creds,
+            keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "silent" }))
+        }
+    });
+
+    activeBots.set(phoneNumber, sock);
+    sock.ev.on("creds.update", saveCreds);
+
+    if (!state.creds?.registered) {
+        await delay(3000);
+        try {
+            let code = await sock.requestPairingCode(phoneNumber);
+            code = code?.match(/.{1,4}/g)?.join("-") || code;
+            
+            if (telegramChatId) bot.sendMessage(telegramChatId, `✅ *CODE:* \`${code}\``, { parse_mode: "Markdown" });
+            if (isWebRequest) return code; 
+        } catch (e) {
+            uiLog(`Error in pairing +${phoneNumber}`);
+            if (telegramChatId) bot.sendMessage(telegramChatId, "❌ Failed.");
+        }
+    }
+
+    sock.ev.on("connection.update", (update) => {
+        const { connection, lastDisconnect } = update;
+        
+        if (connection === "open") {
+            uiLog(`Connected: +${phoneNumber}`);
+            stats.users++;
+            if (telegramChatId) bot.sendMessage(telegramChatId, `🎉 Successfully Linked!`);
+        }
+
+        if (connection === "close") {
+            const reason = lastDisconnect?.error?.output?.statusCode;
+            activeBots.delete(phoneNumber);
+            if (reason !== DisconnectReason.loggedOut) {
+                uiLog(`Reconnecting +${phoneNumber}...`);
+                startWhatsAppBot(phoneNumber, telegramChatId);
+            } else {
+                uiLog(`Logged out: +${phoneNumber}`);
+                fs.removeSync(sessionDir);
+            }
+        }
+    });
+
+    sock.ev.on("messages.upsert", async ({ messages, type }) => {
+        if (type !== "notify") return;
+        const m = messages[0];
+        if (!m.message || m.key.fromMe) return;
+        try { await handler(sock, m); } catch (e) {}
+    });
+}
+
+// Reconnect sessions on boot
+const init = async () => {
+    uiLog("Initializing TUTORIAL-MD Dashboard...");
+    if (fs.existsSync(sessionsDir)) {
+        const sessions = fs.readdirSync(sessionsDir);
+        for (const session of sessions) {
+            const num = session.replace("session_", "");
+            if (num) startWhatsAppBot(num);
+        }
+    }
+};
+
+init();
